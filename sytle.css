@@ -60,6 +60,7 @@
     justify-content: center;
     align-items: center;
 
+
 }
 
 .email {
@@ -148,7 +149,7 @@ input::placeholder {
     text-align: left;
     flex: none;
     color: #FFFFFF;
-    margin-top: 33px;
+    /* margin-top: 33px; */
 
 }
 
